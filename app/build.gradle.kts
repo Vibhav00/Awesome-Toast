@@ -48,5 +48,10 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
-    implementation(project(":awesometoast"))
+
+    // FOR JITPACK LIBRARY
+    implementation("com.github.Vibhav00:awesometoast:1.0.0")
+
+    // FOR LOCAL LIBRARY
+    // implementation(project(":awesometoast"))
 }
