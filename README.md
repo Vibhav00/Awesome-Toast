@@ -6,11 +6,11 @@
 
 A Stylish Kotlin Toast Library for Android Apps 😍🤗
 
-![GitHub Cards Preview](./awesometoastpsd.png)
+![GitHub Cards Preview](./readmeutils/awesometoastpsd.png)
 
 ## Preview - Awesome Toast 🌟🌟🌟
 
-<img src = "./working.gif" width="300px" />
+<img src = "./readmeutils/working.gif" width="300px" />
 
 # Types of Toast 😍
 
@@ -22,10 +22,10 @@ A Stylish Kotlin Toast Library for Android Apps 😍🤗
     <th> Default Toast</th> 
   </tr>
   <tr>
-    <td><img src = "./success.jpg"  /></td> 
-    <td><img src = "./worning.jpg"/></td>
-    <td><img src = "./fail.jpg"/></td> 
-    <td><img src = "./default.jpg"/></td> 
+    <td><img src = "./readmeutils/success.jpg"  /></td> 
+    <td><img src = "./readmeutils/worning.jpg"/></td>
+    <td><img src = "./readmeutils/fail.jpg"/></td> 
+    <td><img src = "./readmeutils/default.jpg"/></td> 
    
   </tr>
 </table>
